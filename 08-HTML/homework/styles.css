@@ -1,0 +1,25 @@
+            h1{color:greenyellow ;}
+            h3{color:greenyellow;}
+            h4{color:greenyellow;}
+            body{background-image:url("https://www.tuttiat.com/wp-content/uploads/2020/07/sorrentinos-de-jamon-y-queso-congelados-tuttiatavola.jpg");
+                background-repeat: no-repeat;
+                background-size: cover;}
+            img{width: 400px;
+                height:300px ;
+                background-size: 100% 100%;}   
+
+            #thirdDiv{
+                border: 1px solid black;
+                padding: 50px;    
+                height: 600px;
+                width: 500px;
+                background:tomato
+                    } 
+
+            #spanId{font-size: 18px;
+                    color:greenyellow;
+                    margin: 50px;}
+            
+            #aId{margin: 100px;
+                font-size: x-large;
+                 color:lightsalmon}
